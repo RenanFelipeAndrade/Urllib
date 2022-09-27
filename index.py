@@ -29,7 +29,7 @@ def main():
             preco_anterior = preco_atual
         else:
             print("O preço não está no esperado ou não alterou ainda \n")
-        sleep(2)
+        sleep(10)
 
 
 if __name__ == "__main__":
