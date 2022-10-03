@@ -3,8 +3,12 @@
 ## Requisitos
 
 - Poetry
+- Senha de App Gmail
+- Arquivo .env (copie, renomeie e altere o example-env)
 
-Caso não tenha instalado, [clique aqui para o guia oficial](https://python-poetry.org/docs/#installing-with-the-official-installer)
+Caso não tenha instalado o poetry, [clique aqui para o guia oficial](https://python-poetry.org/docs/#installing-with-the-official-installer)
+
+À senha de app Gmail, acesse https://support.google.com/accounts/answer/185833?hl=en
 
 ---
 
