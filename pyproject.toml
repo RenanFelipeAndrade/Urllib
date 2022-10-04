@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.10"
 python-dotenv = "^0.21.0"
 pywhatkit = "^5.4"
+python-telegram-bot = "^13.14"
 
 
 [tool.poetry.group.dev.dependencies]
