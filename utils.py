@@ -10,7 +10,7 @@ load_dotenv()
 
 def envia_mensagem_whatsapp(texto, destino="+5547991724227"):
     pywhatkit.sendwhatmsg_instantly(
-        phone_no=destino, message=texto, close_time=2, tab_close=2, wait_time=2
+        phone_no=destino, message=texto, close_time=2, tab_close=2, wait_time=10
     )
 
 
