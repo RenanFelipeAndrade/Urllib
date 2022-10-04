@@ -1,4 +1,4 @@
 GOOGLE_APP_EMAIL="uma conta gmail válida"
 GOOGLE_APP_PASSWORD="uma senha de aplicativo do Google. Saiba mais em: https://support.google.com/accounts/answer/185833?hl=en "
-TELEGRAM_API_KEY="5687782332:AAGVsDS0J1QsK_58yLD3nrla-e3vZ7Cguqg"
-TELEGRAM_USER_ID="1717856191"
+TELEGRAM_BOT_API_KEY="chave de api para bots, obtida com o comando /start pelo https://t.me/botfather "
+TELEGRAM_USER_ID="id de usuário, obtido com o comando /start pelo https://t.me/userinfobot "
