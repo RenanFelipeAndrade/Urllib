@@ -1,5 +1,5 @@
 from time import sleep
-from utils import (
+from src.utils import (
     encontra_trecho_com_preco,
     envia_email,
     retorna_texto_de_url,
