@@ -2,6 +2,7 @@ from time import sleep
 from src.utils import (
     encontra_trecho_com_preco,
     envia_email,
+    envia_mesagem_telegram,
     retorna_texto_de_url,
     envia_mensagem_whatsapp,
 )
@@ -32,6 +33,9 @@ def main():
             #     f"O preço está em {preco_atual}! Acesse a oferta através de: {url}"
             # )
             # envia_mensagem_whatsapp(
+            #     f"O preço está em {preco_atual}! Acesse a oferta através de: {url}"
+            # )
+            # envia_mesagem_telegram(
             #     f"O preço está em {preco_atual}! Acesse a oferta através de: {url}"
             # )
             preco_anterior = preco_atual
